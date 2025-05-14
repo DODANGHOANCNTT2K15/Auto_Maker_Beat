@@ -31,5 +31,5 @@ Run file Python
 ```bash
 python maker_auto.py
 ```
-Or: Double click run.bat
+Or: Double click `run.bat`
 
